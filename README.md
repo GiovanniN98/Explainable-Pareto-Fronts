@@ -8,5 +8,4 @@ potential to explain the relationship between decision variables and objectives 
 optimal solutions. The application of these methods leads to the extraction of additional
 information regarding the problem and the solutions themselves.
 The aim is to provide a Decision-Maker with a tool that allows them to make a more
-informed choice and the opportunity to refine the solutions proposed by the genetic algo-
-rithm used.
+informed choice and the opportunity to refine the solutions proposed by the genetic algorithm used.

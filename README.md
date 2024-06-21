@@ -10,4 +10,6 @@ information regarding the problem and the solutions themselves.
 The aim is to provide a Decision-Maker with a tool that allows them to make a more
 informed choice and the opportunity to refine the solutions proposed by the genetic algorithm used.
 
+This work also provides an useful framework to study and classify multi-modal MOOPs.
+
 Feel free to get in touch with me if you are interested in the project, you can find my contact information [Here](https://github.com/GiovanniN98).

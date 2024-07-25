@@ -1,5 +1,5 @@
 # Explainable-Pareto-Fronts
-[Code and full disclosure will be available after Thesis discussion 16/07/24]
+[Code and full disclosure will be available after Paper Publication - APPROX. 02/2025]
 
 This is a Computer Science & Engineering MSc Thesis about applying Explainable AI (XAI) to Pareto Fronts resulting from a Multi-Objective Optimization Problem (MOOP) solved via Genetic Algorithms (GA). The methods are appliable to any Pareto Front.
 
